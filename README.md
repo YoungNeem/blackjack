@@ -1,1 +1,1 @@
-Take-home interview project for Hacker Reactor
+Take-home interview project for Hack Reactor
